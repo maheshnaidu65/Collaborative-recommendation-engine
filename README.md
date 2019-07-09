@@ -1,1 +1,7 @@
-# Collaborative-recommendation-engine
+# A kNN based Collaborative recommendation Engine
+
+1) This recommendation engine is built using the ratings provided by the users for the given items. 
+2) Items that have been given the similar ratings by the same set of users must have some correlation.
+3) This crrelation is used to provide recommendations for items 
+4) K-Nearest neigbors were obtained based on cosine similarity.
+5) The Restaurants,represented by anonymized IDs, are recommended to the user. 
